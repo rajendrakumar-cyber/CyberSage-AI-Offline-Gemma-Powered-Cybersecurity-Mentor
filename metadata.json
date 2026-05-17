@@ -1,0 +1,6 @@
+{
+  "name": "CyberSage AI",
+  "description": "Offline-first cybersecurity mentor providing private threat analysis, hands-on learning labs, and automated log diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
